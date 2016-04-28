@@ -3,7 +3,7 @@ function DeleteResourceGroup{
 }
 
 function ShutDownAllVMs{
-	Invoke-Expression "& 'C:\Users\jule\Scripts\ShutDown-All-VMs-in-All-RGs.ps1' "
+	Invoke-Expression "& 'C:\Users\jule\Scripts\ShutDown-All-VMs.ps1' "
 }
 
 function ShutDownVMsIn{
