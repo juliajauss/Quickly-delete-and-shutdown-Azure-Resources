@@ -1,4 +1,3 @@
-﻿Select-AzureProfile "C:\Users\juliajau\OD\Work\ISV TEAM\Skripte\profile.json" 
 Login-AzureRmAccount
 Select-AzureRmSubscription -SubscriptionID "00dd302a-92a9-4ec6-a501-213b1bb1fad1"
 
